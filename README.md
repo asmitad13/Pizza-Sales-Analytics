@@ -37,7 +37,7 @@ The dataset used in this project includes pizza sales records with the following
 
 <img width="1414" alt="Screenshot 2024-12-31 at 4 37 12 PM" src="https://github.com/user-attachments/assets/9b3d6f03-d546-4339-a96f-eae0adbd8dc1" />
 
-# Dashboard Link
+# Tableau Dashboard Link
 
 https://public.tableau.com/app/profile/asmita.deshpande/viz/PizzaSales_17309055213350/Home-PizzaSales
 
